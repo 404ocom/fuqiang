@@ -17,6 +17,12 @@ v2rayN:https://github.com/2dust/v2rayN/releases
 v2rayU:https://github.com/yanue/V2rayU/releases
 
 
+## 浏览器扩展：
+
+### Chrome & Firefox:
+
+SwitchOmega:https://github.com/FelisCatus/SwitchyOmega
+
 
 
 ## 服务端部署
